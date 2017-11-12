@@ -1,0 +1,2 @@
+# BrontideMC
+Official BrontideMC plugin
